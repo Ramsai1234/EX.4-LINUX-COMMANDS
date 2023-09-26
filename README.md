@@ -1,12 +1,16 @@
 # OS EX.4-LINUX-COMMANDS
 
-AIM:
+## AIM:
 To explore and implement the fundamentals of UNIX commands.
 
 ## Software requirements:
 Linux operating system
 
 ## COMMAND1:ls - List Directory Contents
+```
+Developed by : P.Ramsai
+Register no: 212221240041
+```
 ```
 Syntax:
 ls [options] [directory]
